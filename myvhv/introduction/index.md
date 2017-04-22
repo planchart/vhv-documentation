@@ -600,6 +600,7 @@ into a new SVG image.
 </script>
 
 
+
 Try changing the Humdrum data in the above example, such as removing
 the key signature, changing to tenor clef (`*clefC4`), or changing
 some pitches.  The SVG image on the right should update as you
